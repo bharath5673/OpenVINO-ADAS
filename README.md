@@ -63,4 +63,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 - OpenVINO: [INTEL-Openvino](https://docs.openvino.ai/2023.0/openvino_docs_install_guides_overview.html?ENVIRONMENT=DEV_TOOLS&OP_SYSTEM=WINDOWS&VERSION=v_2023_0_2&DISTRIBUTION=PIP)
 - YOLOv5: [https://github.com/ultralytics/yolov5](https://github.com/ultralytics/yolov5)
 - OpenCV: [https://opencv.org/](https://opencv.org/)
+- ref: yolo-openvino[https://github.com/bharath5673/OpenVINO]
 
