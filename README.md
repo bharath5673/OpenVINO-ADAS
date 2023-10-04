@@ -6,7 +6,7 @@
 
 This repository provides a straightforward implementation of road segmentation and object detection using the OpenVINO toolkit, designed specifically for Advanced Driver Assistance Systems (ADAS). The code is kept clean and easy to understand, making it accessible even for those new to computer vision and OpenVINO.
 
-![demo](demo.gif)
+![demo](output.gif)
 
 ## Key Features:
 
