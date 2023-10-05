@@ -22,7 +22,7 @@ This repository provides a straightforward implementation of road segmentation a
 
 - Python 3.x
 - OpenCV
-- PyTorch
+- OpenVINO
 - NumPy
 
 ### Installation
