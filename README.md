@@ -32,6 +32,7 @@ This repository provides a straightforward implementation of road segmentation a
 3. conda env python>=3.9 recommended
 
 ```bash
+### tested on openvino-dev==2023.3.0
 pip3 install openvino-dev
 ```
 
